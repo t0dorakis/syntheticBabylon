@@ -38,7 +38,7 @@ Vielen Dank!
 The results turned out to be rough and did not fulfil the visual expectations.
 Therefore in the following steps the algorithm has continuously been adjusted to the impressions of natural and organic structures.
 
-![](https://raw.githubusercontent.com/josues/paths/master/assets/visuals/IT1/1.png)
+![](https://github.com/t0dorakis/syntheticBabylon/blob/master/assets/visuals/IT1/1.png)
 
 
 ### Iteration 2:
@@ -65,8 +65,8 @@ Vielen Dank!
 
 This text was handed to 10 people.
 
-![](https://raw.githubusercontent.com/t0dorakis/syntheticBabylon/assets/visuals/IT2/1.png)
-![](https://raw.githubusercontent.com/t0dorakis/syntheticBabylon/assets/visuals/IT2/2.png)
+![](https://raw.githubusercontent.com/t0dorakis/blob/master/syntheticBabylon/assets/visuals/IT2/1.png)
+![](https://raw.githubusercontent.com/t0dorakis/blob/master/syntheticBabylon/assets/visuals/IT2/2.png)
 
 For the final iteration the algorithm was adjusted to achieve a richer picture.
 
@@ -93,11 +93,11 @@ eine schwebende Stadt erschaffen?
 
 Vielen Dank!
 
-![](https://raw.githubusercontent.com/t0dorakis/syntheticBabylon/assets/visuals/IT3/1.png)
-![](https://raw.githubusercontent.com/t0dorakis/syntheticBabylon/assets/visuals/IT3/2.png)
-![](https://raw.githubusercontent.com/t0dorakis/syntheticBabylon/assets/visuals/IT3/3.png)
+![](https://raw.githubusercontent.com/t0dorakis/blob/master/syntheticBabylon/assets/visuals/IT3/1.png)
+![](https://raw.githubusercontent.com/t0dorakis/blob/master/syntheticBabylon/assets/visuals/IT3/2.png)
+![](https://raw.githubusercontent.com/t0dorakis/blob/master/syntheticBabylon/assets/visuals/IT3/3.png)
 
 
 The picture underneath is my favorite and is closest to what I tried to achieve.
 
-![](https://raw.githubusercontent.com/t0dorakis/syntheticBabylon/assets/visuals/final.jpg)
+![](https://raw.githubusercontent.com/t0dorakis/blob/master/syntheticBabylon/assets/visuals/final.jpg)
